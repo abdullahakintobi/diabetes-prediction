@@ -1,12 +1,6 @@
 # Environments
 .venv/
 
-# UV
-uv.lock
-
-# pyenv
-.python-version
-
 # VS Code
 .vscode/
 *.code-workspace
