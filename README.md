@@ -1,9 +1,8 @@
 # Diabetes Prediction using Support Vector Machine
 
+![Python](https://img.shields.io/badge/Python-v3.11-blue?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.7.1-red?logo=scikit-learn&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Model](https://img.shields.io/badge/Model-SVM-orange)
+
 This project uses a **Support Vector Machine (SVM)** model to predict the likelihood of diabetes based on health indicators such as glucose level, BMI, age, blood pressure, and more.
-
-The project is built with **Python 3.11+**, managed with the [uv package manager](https://github.com/astral-sh/uv), and leverages **scikit-learn, pandas, numpy** for training and prediction.
-
 
 
 ## Workflow
