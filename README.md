@@ -7,5 +7,3 @@ Predict Diabetic Patients using Support Vector Machine ML Algorithm.
 ## 📊 Workflow Diagram
 
 ![ML Workflow](image/workflow.png)
-
-> This project is expected to be completed by September 6, 2025.
